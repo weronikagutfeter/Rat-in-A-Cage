@@ -1,3 +1,3 @@
 # Rat-in-A-Cage
 
-All valid code are in datasets/preliminary
+All valid codes are in datasets/preliminary
