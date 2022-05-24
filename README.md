@@ -1,3 +1,5 @@
 # Rat-in-A-Cage
 
-All valid codes are in datasets/preliminary
+Library for mouse movement classification for malicious activity detection.
+
+Libary is under construction. All valid codes are in datasets/preliminary.
